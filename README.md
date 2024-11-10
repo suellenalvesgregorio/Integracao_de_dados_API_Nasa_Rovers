@@ -2,7 +2,7 @@
 Explorando Marte com Python! Neste repositório, você encontrará uma atividade de integração de dados usando a API da NASA para acessar imagens dos Rovers em Marte. Com essa API, você pode baixar fotos do Planeta Vermelho e, ao mesmo tempo, aprimorar suas habilidades em Python. 🚀📸
 
 # Como obter a API KEY ?
-Acesse o site: https://api.nasa.gov/
+<br>Acesse o site: https://api.nasa.gov/
 Clique em Get Started
 Preencha um pequeno formulário com os seus dados
 Acesse o e-mail que você preencheu no cadastro
